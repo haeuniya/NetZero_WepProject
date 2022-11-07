@@ -1,6 +1,7 @@
 # NetZero_WepProject</br>
 NetZero_WepProject_Using JAVA+SPRING+ORACLE</br>
-전체 프로젝트 파일은 위 코드 부분에 pdf파일로 업로드 되어있습니다.
+
+전체 파일 : [5차프로젝트_4조.pdf](https://github.com/haeuniya/NetZero_WepProject/files/9953080/5._4.pdf)
 
 ![슬라이드1](https://user-images.githubusercontent.com/82012381/200348039-2aa89929-4eb9-4155-8421-0abfc05136cc.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/82012381/200348075-04657069-0792-4ff1-ae21-e9dc51cb9932.PNG)
